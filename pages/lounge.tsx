@@ -79,7 +79,7 @@ export default function Lounge() {
           cy="12"
           r="10"
           stroke="currentColor"
-          stroke-width="4"
+          strokeWidth="4"
         ></circle>
         <path
           className="opacity-75"
@@ -130,12 +130,6 @@ export default function Lounge() {
           </div>
         </div>
       )}
-
-      <div>
-        <h2 className="text-4xl font-bold">Some secret content!</h2>
-        <p>This content is only available to users with NFTs! 🤫</p>
-        <p>You can put anything you like here!</p>
-      </div>
     </div>
   );
 }
