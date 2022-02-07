@@ -12,9 +12,9 @@ This is a completed tutorial for building a NFT Lootbox with thirdweb from [poin
 
 All images are from [Unsplash](https://unsplash.com/).
 
-## Fausets
+## Faucets
 
-Used fausets:
+Used faucets:
 
-- [Matic fauset](https://faucet.polygon.technology/)
-- [Link fauset](https://faucets.chain.link/mumbai)
+- [Matic faucet](https://faucet.polygon.technology/)
+- [Link faucet](https://faucets.chain.link/mumbai)
